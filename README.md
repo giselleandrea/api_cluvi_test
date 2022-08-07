@@ -1,3 +1,7 @@
+# api_cluvi_test
+
+Ruby on rails backend API, Created by Giselle Quiceno For test
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -5,20 +9,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.1.0
+* Rails 7.0.3.1
 
-* System dependencies
+### Development
 
-* Configuration
+Clone the project into your computer.
 
-* Database creation
+Go to the project folder and run `bundle install`
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 
