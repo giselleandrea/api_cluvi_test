@@ -11,11 +11,12 @@ default: &default
   adapter: postgresql
   encoding: unicode
   pool: 5
-  port: 3306
-  host: localhost
-  username: root
-  password: root
-  database: sales
+  port: 5432 #3306
+  #host: localhost
+  host: ec2-54-165-184-219.compute-1.amazonaws.com
+  username: xfytrhlfplgqjn #root
+  password: 35250347e516dfff354f859db413fd7c8121145bd7649d1fbb25b97eea087c4f #root
+  database: de61d8gkgn7h7v #sales
 
   #socket: /Applications/MAMP/tmp/mysql/mysql.sock
   #socket: /var/run/mysqld/mysqld.sock
